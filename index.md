@@ -5,6 +5,7 @@ This is the beginning of a website meant to showcase interesting things in the w
 
 <hr>
 Some of my favorite websites that use data:
+
 | [The Upshot](http://www.nytimes.com/section/upshot/) | [Five Thirty Eight](https://fivethirtyeight.com/) |
 | [USA Facts](https://usafacts.org/) | [OECD Data](https://data.oecd.org/) |
 | [ProPublica Data](https://www.propublica.org/datastore/) | [KD Nuggets](http://www.kdnuggests.com) |
@@ -14,6 +15,9 @@ Some of my favorite websites that use data:
 Interesting problems:
 * [The German Tank Problem](https://www.eadan.net/blog/german-tank-problem/)
 * [Prisoner's Dilemma](http://www.jstor.org/stable/173932?origin=JSTOR-pdf)
+
+|table | column|
+|row | work|
 
 Blog coming soon (maybe?)
 <ul>
