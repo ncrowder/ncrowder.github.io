@@ -12,6 +12,9 @@ Some of my favorite websites that use data:
 * [ProPublica Data](https://www.propublica.org/datastore/)
 <hr>
 
+|table try|one more|
+|huh|does this work|
+
 Blog coming soon (maybe?)
 <ul>
   {% for post in site.posts %}
