@@ -19,6 +19,7 @@ Interesting problems:
 Sites for learning:
 * [Google Sheets](https://www.benlcollins.com/)
 * [Kaggle mini courses](https://www.kaggle.com/learn/overview)
+* [AutoHotKey](https://www.autohotkey.com/docs/Tutorial.htm)
 
 Blog coming soon (maybe?)
 <ul>
