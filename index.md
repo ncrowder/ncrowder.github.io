@@ -15,9 +15,10 @@ Some of my favorite websites that use data:
 Interesting problems:
 * [The German Tank Problem](https://www.eadan.net/blog/german-tank-problem/)
 * [Prisoner's Dilemma](http://www.jstor.org/stable/173932?origin=JSTOR-pdf)
-
-|table | column|
-|row | work|
+<hr>
+Sites for learning:
+* [Google Sheets](https://www.benlcollins.com/)
+* [Kaggle mini courses](https://www.kaggle.com/learn/overview)
 
 Blog coming soon (maybe?)
 <ul>
