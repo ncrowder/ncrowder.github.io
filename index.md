@@ -20,7 +20,9 @@ Sites for learning:
 * [Google Sheets](https://www.benlcollins.com/)
 * [Kaggle mini courses](https://www.kaggle.com/learn/overview)
 * [AutoHotKey](https://www.autohotkey.com/docs/Tutorial.htm)
+* [Code Geekdom](https://www.geeksforgeeks.org/working-csv-files-python/)
 
+Wanna learn, host, and run your code online without installing? [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
 <hr>
 
 Blog coming soon (maybe?)
