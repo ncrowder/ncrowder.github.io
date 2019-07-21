@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nathan Crowder
+---
+
 ## Welcome ##
 
 This is the beginning of a website meant to showcase interesting things in the world of data as well as projects I'm working on involving data analysis or general python programming. 
