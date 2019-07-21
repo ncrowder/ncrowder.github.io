@@ -32,11 +32,11 @@
         
         <hr>
         
-        <p style="color:red">Blog</p>
+        <p style="color:black">Blog</p>
         <ul>
         {% for post in site.posts %}
         <li>
-        <p class="view"><a href="{{ post.url }}">{{ post.title }}</a>
+          <p class="view"><a href="{{ post.url }}">{{ post.title }}</a></p>
         </li>
         {% endfor %}
         </ul>
