@@ -29,13 +29,16 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-       
+        <br><br><br><hr>
+        Blog
+        <ul>
         {% for post in site.posts %}
         <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
-
+        </ul>
+          
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
