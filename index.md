@@ -27,7 +27,8 @@ Sites for learning:
 * [AutoHotKey](https://www.autohotkey.com/docs/Tutorial.htm)
 * [Code Geekdom](https://www.geeksforgeeks.org/working-csv-files-python/)
 
-Wanna learn, host, and run your code online without installing? [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
+Wanna learn, host, and run your code online without installing? <br>
+Try [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
 <hr>
 
 <p style="color:black">Blog</p>
