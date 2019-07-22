@@ -30,7 +30,7 @@ Sites for learning:
 Wanna learn, host, and run your code online without installing? [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
 <hr>
 
-Blog coming soon (maybe?)
+<p style="color:black">Blog</p>
 <ul>
   {% for post in site.posts %}
     <li>
