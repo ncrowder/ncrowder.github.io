@@ -26,6 +26,8 @@ Sites for learning:
 * [Kaggle mini courses](https://www.kaggle.com/learn/overview)
 * [AutoHotKey](https://www.autohotkey.com/docs/Tutorial.htm)
 * [Code Geekdom](https://www.geeksforgeeks.org/working-csv-files-python/)
+* [Towards Data Science blog](https://www.movavi.com/photo-organizer/buynow.html#personal1)
+* [Brandon Rohr's page](https://brohrer.github.io/blog.html)
 
 Wanna learn, host, and run your code online without installing? <br>
 Try [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
