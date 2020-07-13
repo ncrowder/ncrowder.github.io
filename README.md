@@ -7,18 +7,23 @@ code samples, and certifications that might be pertinent.
 
 Resources
 - [OER Probability][1]
-- [Aeirin Kim's Blog][2]
+- [Penn State's Stat Department][2]
+- [Aeirin Kim's Blog (Stats concepts intuitively explained)][3]
+- [Symbolic math in python][4]
 
 [1]: http://probabilitycourse.com
-[2]: https://towardsdatascience.com/@aerinykim 
+[2]: https://online.stat.psu.edu/stat414
+[3]: https://towardsdatascience.com/@aerinykim
+[4]: https://live.sympy.org/
 
 Projects I'd like to take on
-- One
+- Stock market analysis (particulary focusing on measures of volatility), and comparison of Friday and Monday closing prices
 - Two
 
 Data/stats education
-- One
-- Two
+- Master's degree in Math with 2 semester sequence of statistics that relied heavily on the use of R.
+- Check my LinkedIN for all online certifications and passed courses relating to stats or programming
+- 
 
 Projects/Code I've finished
 - One 
