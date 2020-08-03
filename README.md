@@ -6,9 +6,9 @@ For now, I'm creating a list of resources that I think are good and useful, a li
 code samples, and certifications that might be pertinent.
 
 Resources
-- [OER Probability][1]
+- [OER Probability Course][1]
 - [Penn State's Stat Department][2]
-- [Aeirin Kim's Blog (Stats concepts intuitively explained)][3]
+- [Aeirin Kim's Blog (Stats and DS concepts intuitively explained)][3]
 - [Symbolic math in python][4]
 
 [1]: http://probabilitycourse.com
@@ -17,13 +17,12 @@ Resources
 [4]: https://live.sympy.org/
 
 Projects I'd like to take on
-- Stock market analysis (particulary focusing on measures of volatility), and comparison of Friday and Monday closing prices
-- Two
+- Stock market analysis (particulary focusing on measures of volatility)
+- Determining whether particularly high or low closing prices on Friday are correlated with the reverse situation on Monday
 
 Data/stats education
 - Master's degree in Math with 2 semester sequence of statistics that relied heavily on the use of R.
 - Check my LinkedIN for all online certifications and passed courses relating to stats or programming
-- 
 
 Projects/Code I've finished
 - One 
