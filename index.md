@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Nathan Crowder
+-layout: default
+-title: Nathan Crowder
 ---
 
 ## Welcome ##
