@@ -1,7 +1,7 @@
----
--layout: default
--title: Nathan Crowder
----
+This is the yaml ---
+layout: default
+title: Nathan Crowder
+This is the end of the yaml ---
 
 ## Welcome ##
 
