@@ -1,7 +1,15 @@
 ## Welcome ##
 
-This is the beginning of a website meant to showcase interesting things in the world of data as well as projects I'm working on involving data analysis or general python programming. 
+This is the beginning of a website meant to showcase interesting things in the world of data as well as projects I'm working on involving data analysis or general python programming. You can read my blog posts about related topics here: 
 
+<p style="color:black">Blog</p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <hr>
 Some of my favorite websites that use data:
@@ -28,11 +36,3 @@ Wanna learn, host, and run your code online without installing? <br>
 Try [Python Anywhere](https://www.pythonanywhere.com/user/ncrowder/)
 <hr>
 
-<p style="color:black">Blog</p>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
