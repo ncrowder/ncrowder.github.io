@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 #banner {
+  display: none;
   z-index: 100;
   left:0;
   right:50%;
@@ -16,4 +17,8 @@
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
+}
+
+#buttonfork {
+  display:none;
 }
