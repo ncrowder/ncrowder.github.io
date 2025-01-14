@@ -1,1 +1,10 @@
-This is some text.
+**This will eventually be my professional bio and portfolio.**
+
+It will contain many things:
+
+- Thing 1
+- Thing 2
+  
+Data sources:
+
+- [Kagge](https://www.kaggle.com) is a great data source to check out.
