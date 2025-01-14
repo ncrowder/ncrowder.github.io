@@ -1,4 +1,5 @@
-**This will eventually be my professional bio and portfolio.**
+**This will eventually be my professional bio and portfolio.**    
+
 [My mission statement](https://ncrowder.github.io/mission_statement.md)
 
 It will contain many things:
