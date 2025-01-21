@@ -1,3 +1,7 @@
+---
+title: Education
+---
+
 ## Formal Education 
 - Master of Arts, Mathematics: Appalachian State University, 2005.  Boone, NC.
 - Bachelor of Science, Mathematics Education: Appalachian State University, 2003.
