@@ -4,9 +4,12 @@
 
 It will contain many things:
 
-- Thing 1
-- Thing 2
+- [Education] (https://ncrowder.github.io/education.html)
+- More to come....
   
-Data sources:
+Specific to my students:
 
-- [Kagge](https://www.kaggle.com) is a great data source to check out.
+- [GitHub Pages Elements] (https://ncrowder.github.io/portfolio_elements.html)
+
+
+
