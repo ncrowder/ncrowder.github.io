@@ -8,5 +8,5 @@ title: Education
 - Aerospace Engeering Major: North Carolina State University, 1997-1999.  Raleigh, NC.
 
 ## Continuing Education
-- Dozens of courses taken through Coursera, edX, Udemy in multiple areas.
+- Dozens of courses taken through Coursera, edX, Udemy in multiple areas.  For a current listing see my LinkedIN profile.
 - Analytics courses through DataCamp
