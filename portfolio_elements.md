@@ -1,3 +1,7 @@
+---
+title: GitHub Pages Elements
+---
+
 Here are a suggested list of things you may want to include on your page.  The things which have an \* beside them are required.  This list may evolve or change over time.
 
 - \* Mission statement (the "why" behind what you're doing) with a list of your short and long term goals underneath.  
