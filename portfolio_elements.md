@@ -3,10 +3,10 @@ title: GitHub Pages Elements
 ---
 
 For learning about GitHub Pages and using Markdown to style yoru pages I recommend the following:
-- [Markdown Help](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
-- [Video breaking down the use of GitHub pages](https://www.yout-ube.com/watch?v=D9CLhQdLp8w&t=107s)
+- [Markdown Help](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet){:target="_blank"}
+- [Video breaking down the use of GitHub pages](https://www.yout-ube.com/watch?v=D9CLhQdLp8w&t=107s){:target="_blank"}
   - Note that you can use index.md or readme.md as your landing page.
-  - You can also use any of the [supported themes](https://pages.github.com/themes/) you wish, or no theme and code from scratch.
+  - You can also use any of the [supported themes](https://pages.github.com/themes/){:target="_blank"} you wish, or no theme and code from scratch.
   - You can even use html as opposed to markdown if you so choose.
 
 Here are a suggested list of things you may want to include on your page.  The things which have an \* beside them are required.  This list may evolve or change over time.
