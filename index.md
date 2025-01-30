@@ -10,6 +10,7 @@ It will contain many things:
 Specific to my students:
 
 - [GitHub Pages Elements](https://ncrowder.github.io/portfolio_elements.html)
+- [Data Sources & External Links](https://ncrowder.github.io/sources_articles.html)
 
 
 
