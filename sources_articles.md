@@ -4,7 +4,7 @@ Title: Data Sources & Links to Articles
 
 Data sources:
 
-- [Kaggle](https://www.kaggle.com) is the granddaddy of them all.
+- [Kaggle](https://www.kaggle.com) 
 - More to come...
 
 Link to websites and articles I have compiled which I have found helpful for learning more about specific topics or just generally entertaining and somewhat related.
